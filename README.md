@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ajay Sahani</h1>
 <h3 align="center">A passionate full stack web developer from Delhi India</h3>
-<img align="right" alt="logo" width="400" src="https://media.discordapp.net/attachments/1016978348259426345/1114618320843444365/vvvv.gif?width=282&height=398" style="border-radius: 80px;">
+<img align="right" alt="logo" width="400" src="https://cdn.discordapp.com/attachments/1016978348259426345/1134849364355977366/com-ajay-1080p-unscreen.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=csajays&label=Profile%20views&color=0e75b6&style=flat" alt="csajays" /> </p>
 
 - 🔭 I’m currently working on **MERN**
