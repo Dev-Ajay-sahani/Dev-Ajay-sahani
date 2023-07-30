@@ -9,7 +9,8 @@
 
 - 💬 Ask me about **MERN**
 
-- 📫 How to reach me <a href="mailto:ajays.dev.contact@gmail.com">Gmail</a>
+- 📫 How to reach me <br/>
+ <a href="mailto:ajays.dev.contact@gmail.com"><img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Gmail2020.logo.png" alt="Gmail" height="30" width="70"></a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
