@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **MERN**
 
-- 📫 How to reach me **ajays.dev.contact@gmail.com**
+- 📫 How to reach me <a href="mailto:ajays.dev.contact@gmail.com">Gmail</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
