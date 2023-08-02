@@ -15,7 +15,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/ajay-sahni-519b28249/" target="blank"><img align="center" src="https://logos-world.net/wp-content/uploads/2020/05/Linkedin-Logo.png" alt="https://www.linkedin.com/in/ajay-sahni-519b28249/" height="50" width="60" /></a>
-<a href="https://discordapp.com/users/844176560629481473" target="blank"><img align="center" src="https://w7.pngwing.com/pngs/93/531/png-transparent-discord-computer-icons-logo-discord-logo-smiley-discord-thumbnail.png" alt="https://discordapp.com/users/844176560629481473" height="30" width="40" /></a>
+<a href="https://discordapp.com/users/844176560629481473" target="blank"><img align="center" src="https://www.freepnglogos.com/uploads/discord-logo-png/concours-discord-cartes-voeux-fortnite-france-6.png" alt="https://discordapp.com/users/844176560629481473" height="40" width="40" /></a>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
